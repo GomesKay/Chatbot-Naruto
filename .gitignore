@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de configuração
+.env
+
+# Dados gerados
+*.log
+*.sqlite3
+
+# Dependências
+*.egg-info/
+dist/
+build/
